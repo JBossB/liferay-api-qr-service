@@ -1,0 +1,1 @@
+# liferay-api-qr-service
